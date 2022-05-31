@@ -1,9 +1,7 @@
 import random
 import string
 
-from click import option
 
-length_password = 5
 def menu():
     print('Password Generator')
     print()
